@@ -10,6 +10,6 @@ hal yang harus diperhatikan:
 3. lient harus memberikan nameuser agar tersambung dengan server.
 
 # Output
-
+AJK_Output.png
 
 # FlowChart
