@@ -1,0 +1,13 @@
+C:\Users\AnnaUlive\Documents\hikmah\ProjectAJK\ServerThread\ServerThread\bin\Debug\netcoreapp3.1\ServerThread.exe
+C:\Users\AnnaUlive\Documents\hikmah\ProjectAJK\ServerThread\ServerThread\bin\Debug\netcoreapp3.1\ServerThread.deps.json
+C:\Users\AnnaUlive\Documents\hikmah\ProjectAJK\ServerThread\ServerThread\bin\Debug\netcoreapp3.1\ServerThread.runtimeconfig.json
+C:\Users\AnnaUlive\Documents\hikmah\ProjectAJK\ServerThread\ServerThread\bin\Debug\netcoreapp3.1\ServerThread.runtimeconfig.dev.json
+C:\Users\AnnaUlive\Documents\hikmah\ProjectAJK\ServerThread\ServerThread\bin\Debug\netcoreapp3.1\ServerThread.dll
+C:\Users\AnnaUlive\Documents\hikmah\ProjectAJK\ServerThread\ServerThread\bin\Debug\netcoreapp3.1\ServerThread.pdb
+C:\Users\AnnaUlive\Documents\hikmah\ProjectAJK\ServerThread\ServerThread\obj\Debug\netcoreapp3.1\ServerThread.csproj.AssemblyReference.cache
+C:\Users\AnnaUlive\Documents\hikmah\ProjectAJK\ServerThread\ServerThread\obj\Debug\netcoreapp3.1\ServerThread.AssemblyInfoInputs.cache
+C:\Users\AnnaUlive\Documents\hikmah\ProjectAJK\ServerThread\ServerThread\obj\Debug\netcoreapp3.1\ServerThread.AssemblyInfo.cs
+C:\Users\AnnaUlive\Documents\hikmah\ProjectAJK\ServerThread\ServerThread\obj\Debug\netcoreapp3.1\ServerThread.csproj.CoreCompileInputs.cache
+C:\Users\AnnaUlive\Documents\hikmah\ProjectAJK\ServerThread\ServerThread\obj\Debug\netcoreapp3.1\ServerThread.dll
+C:\Users\AnnaUlive\Documents\hikmah\ProjectAJK\ServerThread\ServerThread\obj\Debug\netcoreapp3.1\ServerThread.pdb
+C:\Users\AnnaUlive\Documents\hikmah\ProjectAJK\ServerThread\ServerThread\obj\Debug\netcoreapp3.1\ServerThread.genruntimeconfig.cache

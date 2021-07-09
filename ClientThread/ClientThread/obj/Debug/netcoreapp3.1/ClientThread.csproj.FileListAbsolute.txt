@@ -1,0 +1,13 @@
+C:\Users\AnnaUlive\Documents\hikmah\ProjectAJK\ClientThread\ClientThread\bin\Debug\netcoreapp3.1\ClientThread.exe
+C:\Users\AnnaUlive\Documents\hikmah\ProjectAJK\ClientThread\ClientThread\bin\Debug\netcoreapp3.1\ClientThread.deps.json
+C:\Users\AnnaUlive\Documents\hikmah\ProjectAJK\ClientThread\ClientThread\bin\Debug\netcoreapp3.1\ClientThread.runtimeconfig.json
+C:\Users\AnnaUlive\Documents\hikmah\ProjectAJK\ClientThread\ClientThread\bin\Debug\netcoreapp3.1\ClientThread.runtimeconfig.dev.json
+C:\Users\AnnaUlive\Documents\hikmah\ProjectAJK\ClientThread\ClientThread\bin\Debug\netcoreapp3.1\ClientThread.dll
+C:\Users\AnnaUlive\Documents\hikmah\ProjectAJK\ClientThread\ClientThread\bin\Debug\netcoreapp3.1\ClientThread.pdb
+C:\Users\AnnaUlive\Documents\hikmah\ProjectAJK\ClientThread\ClientThread\obj\Debug\netcoreapp3.1\ClientThread.csproj.AssemblyReference.cache
+C:\Users\AnnaUlive\Documents\hikmah\ProjectAJK\ClientThread\ClientThread\obj\Debug\netcoreapp3.1\ClientThread.AssemblyInfoInputs.cache
+C:\Users\AnnaUlive\Documents\hikmah\ProjectAJK\ClientThread\ClientThread\obj\Debug\netcoreapp3.1\ClientThread.AssemblyInfo.cs
+C:\Users\AnnaUlive\Documents\hikmah\ProjectAJK\ClientThread\ClientThread\obj\Debug\netcoreapp3.1\ClientThread.csproj.CoreCompileInputs.cache
+C:\Users\AnnaUlive\Documents\hikmah\ProjectAJK\ClientThread\ClientThread\obj\Debug\netcoreapp3.1\ClientThread.dll
+C:\Users\AnnaUlive\Documents\hikmah\ProjectAJK\ClientThread\ClientThread\obj\Debug\netcoreapp3.1\ClientThread.pdb
+C:\Users\AnnaUlive\Documents\hikmah\ProjectAJK\ClientThread\ClientThread\obj\Debug\netcoreapp3.1\ClientThread.genruntimeconfig.cache
