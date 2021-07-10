@@ -2,7 +2,7 @@
 Repository diatas menjalankan 2 script yang berisi multiclient socket programming dengan bahasa C#
 
 # Description
-Socket programming adalah protokol yang mempunyai metode untuk membuat koneksi antar antara perangkat dalam jaringan. Socket programming bertujuan agar satu program bisa berinteraksi dengan program lainnya dalam satu jaringan. pemrograman tersebut juga dapat digunakan untuk melakukan pertukaran data. Dalam program ini, terdapat server yang dapat menampung banyak client (multi-client thread). Protokol yang digunakan dalam program ini adalah TCP (transmission control protocol).
+Socket programming adalah protokol yang mempunyai metode untuk membuat koneksi antar antara perangkat dalam jaringan. Socket programming bertujuan agar satu program bisa berinteraksi dan melakukan pertukaran data dengan program lainnya dalam satu jaringan.Dalam program ini, terdapat server yang dapat menampung banyak client (multi-client thread) yang mengggunakan protokol TCP (transmission control protocol).
 
 hal yang harus diperhatikan:
 1. Menjalankan Server terlebih dahulu.
@@ -17,4 +17,4 @@ berikut output dari program
 # FlowChart
 berikut flowchart dari program
 
-![TCpMultiClient (1)](https://user-images.githubusercontent.com/72594758/125152482-08354a00-e177-11eb-9924-14e233c7a078.png)
+![TCpMultiClient (2)](https://user-images.githubusercontent.com/72594758/125164246-700d8400-e1bb-11eb-926c-736cdb7a4915.png)
