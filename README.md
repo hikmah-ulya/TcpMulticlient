@@ -15,3 +15,6 @@ berikut output dari program
 <img width="955" alt="AJK_Output" src="https://user-images.githubusercontent.com/72594758/125116948-af829480-e117-11eb-9d05-b531ab0e9e90.png">
 
 # FlowChart
+berikut flowchart dari program
+
+![TCpMultiClient](https://user-images.githubusercontent.com/72594758/125152448-d2906100-e176-11eb-9122-7462d565f096.png)
